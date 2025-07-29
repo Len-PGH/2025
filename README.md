@@ -7,7 +7,8 @@ The agent greets the user and asks which color LED they would like to change and
 
 ## Run on Replit
 
-[![Run on Replit](https://replit.com/badge?caption=Run%20on%20Replit&color=3b82f6&variant=plain&logo=true&radius=6&theme=light)](https://replit.com/github/Len-PGH/2025)
+
+[![Run on Replit](https://replit.com/badge?theme=dark&variant=small)](https://replit.com/new/github/Len-PGH/2025)
 
 Click the badge above to import and run this repository directly on Replit.
 
