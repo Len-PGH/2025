@@ -1,0 +1,8 @@
+run = "python3 agent.py"
+
+[interpreter]
+tools = ["browser", "terminal"]
+
+[env]
+PORT = "3000"
+HOST = "0.0.0.0"
