@@ -6,3 +6,4 @@ tools = ["browser", "terminal"]
 [env]
 PORT = "3000"
 HOST = "0.0.0.0"
+BASE_URL = "https://replace-with-url-to-esp32.ngrok-free.app"
